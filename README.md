@@ -1,6 +1,8 @@
-[![collecticons-banner](https://cloud.githubusercontent.com/assets/1090606/8695447/fdef92fa-2adc-11e5-8979-b61bd96d24ca.png)](https://collecticons.io)
+[![collecticons-banner](https://cloud.githubusercontent.com/assets/1090606/8695447/fdef92fa-2adc-11e5-8979-b61bd96d24ca.png)](https://devseed.com/collecticons-chakra/)
 
 # Collecticons for Chakra UI
+
+[Showcase](https://devseed.com/collecticons-chakra/)
 
 This modules allows you to use [collecticons](http://collecticons.io/) svg icons with the [Chakra UI Library](https://chakra-ui.com/).
 
