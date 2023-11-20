@@ -8,7 +8,7 @@
   "sideEffects": false,
   "scripts": {
     "serve": "parcel showcase/index.html --dist-dir dist_site -p 9000",
-    "build:site": "parcel build showcase/index.html --dist-dir dist_site",
+    "build:site": "parcel build ./showcase --dist-dir dist_site",
     "build": "yarn rollup -c ./rollup.config.mjs",
     "watch": "yarn rollup -c ./rollup.config.mjs -w",
     "clean": "rm -rf ./dist ./dist_site ./.parcel-cache",

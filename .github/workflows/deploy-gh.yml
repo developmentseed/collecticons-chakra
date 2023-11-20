@@ -42,7 +42,10 @@ jobs:
       - name: Install
         run: yarn install
 
-      - name: Build
+      - name: Build libary
+        run: yarn build
+
+      - name: Build showcase
         run: yarn build:site
 
   deploy:
