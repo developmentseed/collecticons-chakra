@@ -46,7 +46,7 @@ jobs:
         run: yarn build
 
       - name: Build showcase
-        run: yarn build:site --public-url http://devseed.com/collecticons-chakra
+        run: yarn build:site --public-url http://developmentseed.org/collecticons-chakra
 
   deploy:
     runs-on: ubuntu-latest
